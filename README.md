@@ -1,2 +1,1 @@
-# gcp-lab
-Project for google cloud test
+# Google Cloud Lab
